@@ -1,9 +1,6 @@
-import { useState } from 'react'
-import './App.css'
 import CurrencyConvertor from './components/CurrencyConvertor'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
    
